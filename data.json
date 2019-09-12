@@ -1,0 +1,32 @@
+[
+    {
+       "id":2,
+       "title":"Folder 1",
+       "parentId":-1
+    },
+    {
+       "id":3,
+       "title":"Test",
+       "parentId":1
+    },
+    {
+       "id":-1,
+       "title":"Folder 2",
+       "parentId":null
+    },
+    {
+       "id":1,
+       "title":"Folder 2",
+       "parentId":-1
+    },
+    {
+       "id":4,
+       "title":"Wrike",
+       "parentId":2
+    },
+    {
+       "id":5,
+       "title":"Tester",
+       "parentId":1
+    }
+ ]
